@@ -1,7 +1,7 @@
 ### Olá! Sou o Gabriel Hausmann
 
-- 💼 Hoje procuro minha primeira oportunidade de trabalho
-- 📖 Estudando C e Python
+- 💼 Hoje procuro minha primeira oportunidade de estágio na área
+- 📖 Estudando C, C# e GO
 - 📫 Contate-me no e-mail: gabrielhausmann@hotmail.com
 
 <div>
@@ -10,8 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabhz-hausmann&layout=compact&langs_count=16&theme=dark"/>
 <div/>
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>    
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>      
 <div/>
 
 ##
