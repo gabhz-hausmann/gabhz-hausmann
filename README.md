@@ -1,6 +1,6 @@
 ### Olá! Sou o Gabriel Hausmann
 
-- 💼 Hoje procuro minha primeira oportunidade de estágio na área
+- 💼 Procuro minha primeira oportunidade de jovem aprendiz/estágio na área
 - 📖 Estudando C, C# e GO
 - 📫 Contate-me no e-mail: gabrielhausmann@hotmail.com
 
@@ -20,5 +20,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/Gabriel-Hausmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/biel.hausmann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <div/>
   
