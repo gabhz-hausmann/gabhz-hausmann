@@ -1,7 +1,7 @@
 ### Olá! Sou o Gabriel Hausmann
 
 - 💼 Procuro minha primeira oportunidade de jovem aprendiz/estágio na área
-- 📖 Estudando C, C# e GO
+- 📖 Estudando C e GO
 - 📫 Contate-me no e-mail: gabrielhausmann@hotmail.com
 
 <div>
