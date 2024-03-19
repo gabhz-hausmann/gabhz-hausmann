@@ -33,8 +33,8 @@
 </div>
 
 </br>
-</br>
-</br>
+
+##
 
 <div display="inline-block">
  <p align="left">📚 I have studied C, Golang and started my studies in graphical user interface (GUI) with Java;</p> 
@@ -50,7 +50,7 @@
 <div>
   <a href="https://www.linkedin.com/in/Gabriel-Hausmann/" target="_blank"><img align="left" height="25" width="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/></a> 
   <a href="https://www.instagram.com/biel.hausmann/" target="_blank"><img align="left" height="25" width="25" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank"></a>
-  <img align="left" height="25" width="25" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank">
+  <a href="https://twitter.com/biel_hausmann" target="_blank"><img align="left" height="25" width="25" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"></a>
   <a href="mailto:gabrielhausmann11@gmail.com"><img align="left" height="25" width="25" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank"></a>
 <div/>
   
